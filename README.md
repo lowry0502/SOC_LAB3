@@ -20,3 +20,26 @@ Operation
 
 ![圖片](https://github.com/ZheChen-Bill/lab3_workbook/assets/88698677/b5413f7f-7840-4c4a-85b5-eb66905cc60e)
 # SOC_LAB3
+## Synthesis Report
+### Cell Usage
+![image info](Synthesis_Report/cell_usage.png)
+### RTL Component Information
+![image info](Synthesis_Report/RTL_comp_info.png)
+## Timing Report
+### Timing Constraints
+![image info](Timing_Report/timing_cons.png)
+### Max Delay Path
+![image info](Timing_Report/max_delay_path.png)
+### Slack
+![image info](Timing_Report/slack.png)
+## Waveforms
+### Configuration Write
+![image info](Waveforms/config_write.png)
+### ap_start, ap_done ( measure # of clock cycles from ap_start to ap_done)
+![image info](Waveforms/ap_signals.png)
+### Xn stream-in
+![image info](Waveforms/DinSin1.png)
+![image info](Waveforms/DinSin2.png)
+### Yn stream-out
+![image info](Waveforms/DoutSout1.png)
+![image info](Waveforms/DoutSout2.png)

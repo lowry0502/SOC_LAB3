@@ -43,3 +43,5 @@ Operation
 ### Yn stream-out
 ![image info](Waveforms/DoutSout1.png)
 ![image info](Waveforms/DoutSout2.png)
+### Report
+[Report](report.pdf)
